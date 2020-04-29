@@ -1,0 +1,20 @@
+•	EC2 (Elastic Compute Cloud):
+
+1.	EC2 comes under compute services of amazon web services
+2.	EC2 is like having laptop/desktop
+3.	We can create a remote machine i.e. EC2 as per our requirement like OS, Storage, RAM, Processor, etc
+4.	In EC2 storage called as volume
+5.	EC2 is remote machine hence we can modify its specification as per our requirement.
+6.	When we stop an instance of EC2, then Amazon will charge only for volume
+7.	To delete EC2 we have to do terminate instance.
+8.	EC2 is IAAS (Infrastructure as A Service)
+
+•	Security Group:
+
+1.	Security group is use as firewall of service in amazon web services
+2.	Firewall control the data traffic
+3.	 In security group we have inbound and outbound rules
+o	Inbound rule:
+	In inbound rule we control incoming data traffic
+o	Outbound rule:
+	In outbound rule we control outgoing data traffic
