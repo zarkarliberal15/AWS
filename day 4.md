@@ -6,7 +6,7 @@ g++ --version\
  >   + Enter following command in your linux terminal
 yum group install 'Development tools'
 
-![image1](https://drive.google.com/open?id=1SV9_rhZiiWpTDVK9A_P70Kzmzefe_t12)
+![image1](C:\Users\Hp\AWS\images\1.jpg)
 
 
   
