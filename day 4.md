@@ -15,7 +15,7 @@
 > + To create directory name as my_cpp_codes enter following command in linux terminal\
 **mkdir my_cpp_codes**
 > + To check whether our directory created or not enter following command\
-**ls**
+**ls**\
 Which will list all files and directory of current working directory 
 > + Now change current path to my_cpp_codes by using following command\
 **cd my_cpp_codes**
