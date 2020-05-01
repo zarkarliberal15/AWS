@@ -6,9 +6,7 @@ g++ --version\
  >   + Enter following command in your linux terminal
 yum group install 'Development tools'
 
-<img src="C:\Users\Hp\day 4 images\1.jpg"
-     alt="Image not found!"
-     style="float: left; margin-right: 10px;" />
+![image1](https://drive.google.com/open?id=1SV9_rhZiiWpTDVK9A_P70Kzmzefe_t12)
 
 
   
