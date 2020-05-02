@@ -21,13 +21,13 @@
 >	    + It is optional to give tag
 >	    + Click on next i.e. review section where enter name or your IAM Role and click on create role
 > + Now we have to attach our IAM Role with EC2
-> + Go to EC2 dashboard and follow following steps\
+> + Go to EC2 dashboard and follow following steps
 >	   + Click on running instance
 >	   + Select instance and go to action
 >	   + Instance state -> start
 >	   + Instance setting -> attach/replace IAM Role
 >	   + Now select your IAM Role which created recently from drop down box and hit on apply
-> +	Now open connect your EC2 instance using SSH
+> +	Now open your linux terminal and connect your EC2 instance using SSH
 > +	Check whether communication link between EC2 and S3 establish or not 
 > +	Run following command on linux terminal
 **aws s3** *your_command*\
