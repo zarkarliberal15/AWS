@@ -32,3 +32,50 @@
 > +	Run following command on linux terminal
 **aws s3** *your_command*\
 for example: **aws s3 ls** 
+
+# How to Connect EC2 with S3 outside AWS:
+
+> + To connect services outside AWS, You need to download AWS CLI follow following step to setup AWS CLI in your machine: 
+>      + Click on this link <https://aws.amazon.com/cli/>
+>      + Now download setup file according to OS of your machine
+>      + After downloading run setup file
+> - - -
+> ![](1.jpg)
+> Click on **Next**
+> - - - 
+> ![](2.jpg)
+> Select **"I accept the terms in the License Agreement"** and click on **Next** 
+> - - -
+>![](3.jpg)
+> Click on **Next**
+> - - -
+>![](4.jpg)
+> Click on **Install**
+> - - -
+>![](5.jpg)
+> Click on **Finish**
+> - - -
+> + Check whether AWS CLI install succefully in your machine or not:
+>      + Open your command prompt
+>
+>![](6.jpg)
+> - - -
+> ![](7.jpg)
+> Execute **aws --version**
+> - - -
+> + Check whether AWS CLI have communication link between services or not:
+>      + Try to execute **aws s3 ls** command in your command prompt 
+>
+>      ![](8.jpg)
+>
+>      + As you see we have to configure our AWS CLI
+> + How to Configure AWS CLI:
+>   + Login to your AWS account
+>   + Go to **Account Details**
+> ![](9.jpg)
+> Click on **Show**
+>   + You will get keys related to your account copy them and find out **.aws** folder in your directory and paste it
+>   + Once you have done with it, try to run **aws s3 ls**
+> ![](10.jpg)
+>   + Now you can access your AWS services from your machine
+
