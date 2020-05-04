@@ -40,42 +40,42 @@ for example: **aws s3 ls**
 >      + Now download setup file according to OS of your machine
 >      + After downloading run setup file
 > - - -
-> ![](1.jpg)
+> ![](images/aws%20cli/1.JPG)
 > Click on **Next**
 > - - - 
-> ![](2.jpg)
+> ![](images/aws%20cli/2.JPG)
 > Select **"I accept the terms in the License Agreement"** and click on **Next** 
 > - - -
->![](3.jpg)
+>![](images/aws%20cli/3.JPG)
 > Click on **Next**
 > - - -
->![](4.jpg)
+>![](images/aws%20cli/4.JPG)
 > Click on **Install**
 > - - -
->![](5.jpg)
+>![](images/aws%20cli/5.JPG)
 > Click on **Finish**
 > - - -
 > + Check whether AWS CLI install succefully in your machine or not:
 >      + Open your command prompt
 >
->![](6.jpg)
+>![](images/aws%20cli/6.JPG)
 > - - -
-> ![](7.jpg)
+> ![](images/aws%20cli/7.JPG)
 > Execute **aws --version**
 > - - -
 > + Check whether AWS CLI have communication link between services or not:
 >      + Try to execute **aws s3 ls** command in your command prompt 
 >
->      ![](8.jpg)
+>      ![](images/aws%20cli/8.JPG)
 >
 >      + As you see we have to configure our AWS CLI
 > + How to Configure AWS CLI:
 >   + Login to your AWS account
 >   + Go to **Account Details**
-> ![](9.jpg)
+> ![](images/aws%20cli/9.JPG)
 > Click on **Show**
 >   + You will get keys related to your account copy them and find out **.aws** folder in your directory and paste it
->   + Once you have done with it, try to run **aws s3 ls**
-> ![](10.jpg)
+>   + Once you have done with it, try to run **aws s3 ls**\
+> ![](images/aws%20cli/10.JPG)
 >   + Now you can access your AWS services from your machine
 
